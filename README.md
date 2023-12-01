@@ -53,8 +53,6 @@ Your Firebase configuration is now set up for the Finance Goal Tracker project.
 
 Ensure that an emulator or physical device is connected, then run the application:
 
-```bash
 flutter run
-```
 
 The Finance Goal Tracker app will be launched on your device.
